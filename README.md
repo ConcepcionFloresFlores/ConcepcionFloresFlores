@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I'm Concepción Flores 👋</h1>
+</div>
+<img src="https://i.imgur.com/Wskj8cn.jpeg">
 
-<!--
-**ConcepcionFloresFlores/ConcepcionFloresFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/instagram-violet?link=https%3A%2F%2Fwww.instagram.com%2Fconcepcion_fflores%3Fstkn%3DYXowc2Q5emlnd2R4
+)]
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍🎓 Davante Medac Student 
+- 🎥 2D & 3D Animator
+- ✏️ Artist & Character Designer
+- 💻 Github & Unity Programmer
+<br>
